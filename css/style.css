@@ -81,7 +81,7 @@
   cursor: pointer;
 }
 .block__order-checkbox input {
-  background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+  background: url(<path-to-image>), rgb(151, 150, 150) 50% / cover no-repeat;
   margin-right: 10px;
   cursor: pointer;
 }
