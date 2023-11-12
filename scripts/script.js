@@ -111,3 +111,4 @@ window.onload = function () {
 console.log("New function");
 console.log("New line");
 console.log("New message2");
+console.log("New message");
